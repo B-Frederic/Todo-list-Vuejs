@@ -10,19 +10,19 @@ Vous pouvez le modifier en cliquant et en entrant un nouveau prénom.
 ### Ajouter une nouvelle tâche
 
 - Saisir la tâche dans la partie prévue à cet effet intitulé : "Entrer votre tâche"
-- Sélectionner la catégorie "Travail" ou "Personnel"
-- Cliquer sur "Ajouter"
+- Sélectionnez la catégorie "Travail" ou "Personnel"
+- Cliquez sur "Ajouter"
 
 *La liste est enregistrée côté navigateur pour la persistance.*
 
 ### Modifier une tâche déjà ajoutée
 
-Il vous suffit de cliquer sur la tâche que vous voulez modifier, et d'entrer la modification.
+- Cliquez sur la tâche que vous voulez modifier, et entrer la modification.
 
 ### Barrer une tâche terminée
 
-- Cliquer sur le cercle vide de couleur bleu ou rose pour cocher la tâche. Cela permet de barrer la tâche effectuée.
+- Cliquez sur le cercle de couleur "bleu" ou "rose" pour cocher la tâche. Cela permet de barrer la tâche effectuée.
 
 ### Supprimer une tâche
 
-Il vous suffit de cliquer sur le bouton "Supprimer". Cela ouvrira une fenêtre "popup" pour confirmer sa suppression et éviter toute suppression non désirée.
+- Cliquez sur le bouton "Supprimer". Cela ouvrira une fenêtre "popup" pour confirmer sa suppression et éviter toute erreur non désirée.

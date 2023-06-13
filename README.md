@@ -1,7 +1,28 @@
-# Vue 3 + Vite
+# Todo List
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Utilisation
 
-## Recommended IDE Setup
+### Saisir son prénom
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Dans le premier élément, vous pouvez inscrire votre nom. Il est enregistré côté navigateur pour la persistance.
+Vous pouvez le modifier en cliquant et en entrant un nouveau prénom.
+
+### Ajouter une nouvelle tâche
+
+- Saisir la tâche dans la partie prévue à cet effet intitulé : "Entrer votre tâche"
+- Sélectionner la catégorie "Travail" ou "Personnel"
+- Cliquer sur "Ajouter"
+
+*La liste est enregistrée côté navigateur pour la persistance.*
+
+### Modifier une tâche déjà ajoutée
+
+Il vous suffit de cliquer sur la tâche que vous voulez modifier, et d'entrer la modification.
+
+### Barrer une tâche terminée
+
+- Cliquer sur le cercle vide de couleur bleu ou rose pour cocher la tâche. Cela permet de barrer la tâche effectuée.
+
+### Supprimer une tâche
+
+Il vous suffit de cliquer sur le bouton "Supprimer". Cela ouvrira une fenêtre "popup" pour confirmer sa suppression et éviter toute suppression non désirée.
